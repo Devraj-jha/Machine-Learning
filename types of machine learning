@@ -4,8 +4,47 @@ SuperVised learning -> models get questions + correct answer or labels.
 
 unsupervised L ->  algo to find the answers on it own.
 
+Dimensionality Reduction: Reduce features while preserving information.
+Feature Extraction: Merge correlated features into one.
+Anomaly Detection: Find unusual/outlier data.
+Novelty Detection: Find data unlike anything in training set.
+Association Rule Learning: Find relationships/patterns in data.
+
+
+
+
 semi Supervised. -> 
+some data are labeled some are not.
+DBN -> 
+EXAMPLE -> GOOGLE PHOTOS.
 
 rl (reinforcement Learning ) -> 
+agent -> it gets reward if right and penalty if worng, it tries to find the best policy.
+
+
+
+Based on incrementally learning from a stream of incoming data..
+
+Batch learning. 
+=> it is trained using all the availabe data 
+=> it begins from scratch everytime to learn.
+
+Online learning
+=> it can be incrementally learn data.
+
+    learning rate -> how fast to adapt to new data.
+
+
+instance based - versus model based learning
+    how they generalize how they perform on new unseen data.
+
+
+=> model memorize the training example direclty and then compared it.
+
+
+model based 
+=> it generates rules from the data. and compared those rules with the new one. 
+
+
 
 
